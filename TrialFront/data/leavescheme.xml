@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This file holds max number leaves alloted to each designation per year -->
+<schemerecords>
+	<designation type="TRAINEE">
+		<cl>10</cl>
+		<el>20</el>
+		<sl>10</sl>
+	</designation>
+	<designation type="ENGINEER">
+		<cl>15</cl>
+		<el>20</el>
+		<sl>10</sl>
+	</designation>
+	<designation type="PROJECT MANAGER">
+		<cl>15</cl>
+		<el>10</el>
+		<sl>10</sl>
+	</designation>
+	<!-- More designations to be added-->
+</schemerecords>

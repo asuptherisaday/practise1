@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This file holds entire attendance database -->
+<attendancerecords>
+  <year value="2012">
+    <month value="8" status="active">
+      <day value="6">
+        <employee id="20128582">HD</employee>
+        <employee id="20127532">FD</employee>
+        <employee id="20127461">FD</employee>
+        <employee id="20128276">FD</employee>
+      </day>
+      <day value="3">
+        <employee id="20127532">FD</employee>
+        <employee id="20127461">CL</employee>
+        <employee id="20128276">FD</employee>
+      </day>
+      <day value="2">
+        <employee id="20127532">FD</employee>
+        <employee id="20127461">FD</employee>
+        <employee id="20128276">FD</employee>
+      </day>
+      <day value="1">
+        <employee id="20127532">FD</employee>
+        <employee id="20127461">FD</employee>
+        <employee id="20128276">FD</employee>
+      </day>
+    </month>
+    <month value="7" status="active">
+      <day value="31">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="30">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="27">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="26">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="25">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">HD</employee>
+      </day>
+      <day value="24">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">HD</employee>
+      </day>
+      <day value="23">
+        <employee id="20127461">EL</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="20">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="19">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">SL</employee>
+      </day>
+      <day value="18">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">SL</employee>
+      </day>
+      <day value="17">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">SL</employee>
+      </day>
+      <day value="16">
+        <employee id="20127461">SL</employee>
+        <employee id="20127532">EL</employee>
+      </day>
+      <day value="13">
+        <employee id="20127461">SL</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="12">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="11">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="10">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="9">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">CL</employee>
+      </day>
+      <day value="6">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="5">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="4">
+        <employee id="20127461">CL</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="3">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+      <day value="2">
+        <employee id="20127461">FD</employee>
+        <employee id="20127532">FD</employee>
+      </day>
+    </month>
+  </year>
+  <year value="2013">
+    <month value="6" status="active">
+      <day value="1">
+        <employee id="20128582">FD</employee>
+      </day>
+    </month>
+  </year>
+</attendancerecords>

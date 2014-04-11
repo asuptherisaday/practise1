@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This file holds payroll scheme for each designation -->
+<schemerecords>
+  <designation type="TRAINEE">
+    <basic>10000</basic>
+    <da>50</da>
+    <hra>20</hra>
+    <ma>20</ma>
+    <ot>120</ot>
+    <tax>1</tax>
+  </designation>
+  <designation type="ENGINEER">
+    <basic>10500</basic>
+    <da>50</da>
+    <hra>20</hra>
+    <ma>20</ma>
+    <ot>150</ot>
+    <tax>1</tax>
+  </designation>
+  <designation type="PROJECT MANAGER">
+    <basic>12500</basic>
+    <da>55</da>
+    <hra>25</hra>
+    <ma>20</ma>
+    <ot>180</ot>
+    <tax>1</tax>
+  </designation>
+  <!-- More designations to be added-->
+</schemerecords>

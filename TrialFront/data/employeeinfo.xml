@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This file holds employee records -->
+<employeerecords>
+  <employee id="20127532">
+    <fname>Umashankar</fname>
+    <mname>Dineshwar</mname>
+    <lname>Prasad</lname>
+    <gender>M</gender>
+    <dob>
+      <date>7</date>
+      <month>10</month>
+      <year>1990</year>
+    </dob>
+    <doj>
+      <date>2</date>
+      <month>7</month>
+      <year>2012</year>
+    </doj>
+    <mobile>8446275425</mobile>
+    <email>uma00947@gmail.com</email>
+    <bankaccount>9876541230</bankaccount>
+    <designation>ENGINEER</designation>
+    <address>Mumbai-67</address>
+    <pf>1500</pf>
+  </employee>
+  <employee id="20128276">
+    <fname>Sumit</fname>
+    <mname>Shashikant</mname>
+    <lname>Nalawade</lname>
+    <gender>M</gender>
+    <dob>
+      <date>23</date>
+      <month>3</month>
+      <year>1990</year>
+    </dob>
+    <doj>
+      <date>1</date>
+      <month>8</month>
+      <year>2012</year>
+    </doj>
+    <mobile>9867608605</mobile>
+    <email>coolintelx86@gmail.com</email>
+    <bankaccount>1234569870</bankaccount>
+    <designation>TRAINEE</designation>
+    <address>Mumbai-68</address>
+    <pf>1000</pf>
+  </employee>
+  <employee id="20127461">
+    <fname>Ashish</fname>
+    <mname>D</mname>
+    <lname>Lonare</lname>
+    <gender>M</gender>
+    <dob>
+      <date>2</date>
+      <month>12</month>
+      <year>1989</year>
+    </dob>
+    <doj>
+      <date>2</date>
+      <month>7</month>
+      <year>2012</year>
+    </doj>
+    <mobile>9870069589</mobile>
+    <email>ashish@gmail.com</email>
+    <bankaccount>789526981</bankaccount>
+    <designation>PROJECT MANAGER</designation>
+    <address>Amaravati</address>
+    <pf>2000</pf>
+  </employee>
+  <employee id="20128989">
+    <fname>dsghsd</fname>
+    <mname>Middle</mname>
+    <lname>Last</lname>
+    <gender>F</gender>
+    <dob>
+      <date>7</date>
+      <month>8</month>
+      <year>2012</year>
+    </dob>
+    <doj>
+      <date>6</date>
+      <month>8</month>
+      <year>2012</year>
+    </doj>
+    <mobile>9635438764</mobile>
+    <email>ergwerhgwergwer</email>
+    <bankaccount>2381578157891</bankaccount>
+    <designation>TRAINEE</designation>
+    <address>jdfhjhgegej,jwjgok</address>
+    <pf>2000</pf>
+  </employee>
+  <employee id="20128582">
+    <fname>Shikha</fname>
+    <mname>Vasant</mname>
+    <lname>Gadodiya</lname>
+    <gender>F</gender>
+    <dob>
+      <date>6</date>
+      <month>8</month>
+      <year>2012</year>
+    </dob>
+    <doj>
+      <date>1</date>
+      <month>8</month>
+      <year>2012</year>
+    </doj>
+    <mobile>9561517751</mobile>
+    <email>shikha.gadodiya@gmail.com</email>
+    <bankaccount>12764323974698374</bankaccount>
+    <designation>TRAINEE</designation>
+    <address>Dharampeth , Nagpur</address>
+    <pf>2000</pf>
+  </employee>
+</employeerecords>

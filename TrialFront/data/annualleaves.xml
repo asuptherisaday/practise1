@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This file holds record of remaining leaves for each employee for current year -->
+<!-- Leave entry will reduce perticular entry by 1 where half day entry will reduce perticular entry by 0.5 -->
+<leaverecords>
+  <employee id="20127532">
+    <cl>15</cl>
+    <el>20</el>
+    <sl>10</sl>
+  </employee>
+  <employee id="20128276">
+    <cl>10</cl>
+    <el>20</el>
+    <sl>10</sl>
+  </employee>
+  <employee id="20127461">
+    <cl>15</cl>
+    <el>10</el>
+    <sl>10</sl>
+  </employee>
+  <employee id="20128989">
+    <cl>10</cl>
+    <el>20</el>
+    <sl>10</sl>
+  </employee>
+  <employee id="20128582">
+    <cl>10</cl>
+    <el>20</el>
+    <sl>10</sl>
+  </employee>
+</leaverecords>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This file holds passwords of users of the system -->
+<passwords>
+  <employee id="1" type="admin">1</employee>
+  <employee id="20127532" type="user">20127532</employee>
+  <employee id="20128276" type="user">20128276</employee>
+  <employee id="20127461" type="user">20127461</employee>
+  <employee id="20128989" type="user">20128989</employee>
+  <employee id="20128582" type="user">20128582</employee>
+</passwords>

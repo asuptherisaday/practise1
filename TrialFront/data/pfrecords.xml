@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This file holds pf record of each employee -->
+<pfrecords>
+  <employee id="20127532">1500</employee>
+  <employee id="20128582">8000</employee>
+</pfrecords>
